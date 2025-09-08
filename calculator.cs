@@ -12,6 +12,7 @@ public class Calculator
     //This is the Main Method within the Calculator Class
     public static void Main(string[] args)
     {
+        //Varible to break loop if it = 55
         int i = 0;
         //Loop to keep program alive after sum displayed
         while(i != 55) {
